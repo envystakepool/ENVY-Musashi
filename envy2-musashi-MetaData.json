@@ -2,5 +2,6 @@
 "name": "ENVY Musashi Testnet Stake Pool 2",
 "description": "ENVY provides premier Cardano staking, bringing reliable ADA rewards to the Cardano delegator. Single pool on decentralized bare metal servers supporting Cardano mainnet & testnet. For more information, visit: https://linktr.ee/envystakepool.",
 "ticker": "ENVY2",
-"homepage": "https://linktr.ee/envystakepool"
+"homepage": "https://linktr.ee/envystakepool",
+"extended": "https://tinyurl.com/bdbc8784"
 }
